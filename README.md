@@ -47,8 +47,11 @@ After viewing the results, press any key to exit the program.
 ## Example
 
 $ ./twinPrimes
+
 Enter your number: 10
+
 Enter your number: 50
+
 11 and 13 are twin primes
 17 and 19 are twin primes
 29 and 31 are twin primes
