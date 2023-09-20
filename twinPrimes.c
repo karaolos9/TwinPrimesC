@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include "math.h"
-#include <conio.h> // Include conio.h for _getch()
-
 
 
 void emptyInputBuffer()
@@ -71,9 +69,6 @@ int main(void)
     long y = 0;
     
     twin_primes(x,y);
-        
-    printf("Press any key to exit: "); 
-   _getch();
     return 0;
  
 }
